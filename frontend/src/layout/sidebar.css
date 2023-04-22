@@ -1,0 +1,16 @@
+.sidebar-container {
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.menu-container {
+    margin-top: 10vh;
+}
+
+.menu-container > .list-group-item {
+    margin-top: 5px;
+    border: 0px;
+}
+
+.menu-container > a > .list-group-item:hover {
+    background-color: lightgrey;
+}
